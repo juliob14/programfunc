@@ -6,7 +6,9 @@
 package tema6;
 
 /**
- *
+ *Ordenar una matriz de M filas y N columnas por la primera columna
+utilizando el m‚todo SHELL (por insercion).
+
  * @author juliobitar
  */
 public class prob39 {

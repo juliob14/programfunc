@@ -6,7 +6,8 @@
 package tema6;
 
 /**
- *
+ *Generar una matriz de 4 filas y 5 columnas con n£meros aleatorios entre 1
+y 100, y hacer su matriz transpuesta
  * @author juliobitar
  */
 public class prob37 {

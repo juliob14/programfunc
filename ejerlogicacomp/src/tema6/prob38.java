@@ -6,7 +6,9 @@
 package tema6;
 
 /**
- *
+ *Cargar en una matriz las notas de los alumnos de un colegio en funcion del
+numero de cursos (filas) y del n£mero de alumnos por curso (columnas).
+
  * @author juliobitar
  */
 public class prob38 {
