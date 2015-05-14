@@ -10,7 +10,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- *
+ *Simular cien tiradas de dos dados y contar las veces que entre los dos
+suman 10.
+
  * @author juliobitar
  */
 public class prob29 {

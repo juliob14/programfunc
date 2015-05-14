@@ -8,7 +8,9 @@ package tema4;
 import java.io.IOException;
 
 /**
- *
+ *Simular el lanzamiento de una moneda al aire e imprimir si ha salido cara
+o cruz.
+
  * @author juliobitar
  */
 public class prob28 {

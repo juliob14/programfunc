@@ -9,7 +9,9 @@ import java.io.IOException;
 import static tema4.prob29.read;
 
 /**
- *
+ *Introducir dos nymeros por teclado y mediante un menu, calcule su suma, su
+resta, su multiplicacion o su division.
+
  * @author juliobitar
  */
 public class prob31 {

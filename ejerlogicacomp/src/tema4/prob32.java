@@ -9,7 +9,10 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 /**
- *
+ *Hacer un programa que nos permita introducir un numero por teclado y sobre
+el se realicen las siguientes operaciones: comprobar si es primo, hallar
+su factorial o imprimir su tabla de multiplicar.
+
  * @author juliobitar
  */
 public class prob32 {
