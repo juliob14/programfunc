@@ -8,7 +8,11 @@ package Tema1;
 import java.util.Scanner;
 
 /**
- *
+ *Introducir dos numeros por teclado. Imprimir los numeros naturales que
+hay entre ambos numeros empezando por el m s pequeño, contar cuantos hay y
+cuantos de ellos son pares. Calcular la suma de los impares.
+PROGRAMA par_impar
+
  * @author juliobitar
  */
 public class prob15 {

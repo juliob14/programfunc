@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- *
+ *Introducir tantas frases como queramos y contarlas.
  * @author juliobitar
  */
 public class prob7 {

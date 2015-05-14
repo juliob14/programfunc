@@ -6,7 +6,9 @@
 package Tema1;
 
 /**
- *
+ *Hacer un pseudocódigo que imprima los numeros impares hasta el 100 y que
+imprima cuantos impares hay.
+
  * @author juliobitar
  */
 public class prob5 {

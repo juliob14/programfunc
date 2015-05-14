@@ -8,7 +8,8 @@ package Tema1;
 import java.util.Scanner;
 
 /**
- *
+ *Hacer un pseudocodigo que solo nos permita introducir S o N.
+
  * @author juliobitar
  */
 public class prob8 {

@@ -6,7 +6,7 @@
 package Tema1;
 
 /**
- *
+ *Hacer un programa que imprima la suma de los 100 primeros numeros.
  * @author juliobitar
  */
 public class prob4 {

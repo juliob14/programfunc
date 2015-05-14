@@ -1,12 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Tema1;
 
 /**
- *
+ *Hacer un pseudocodigo que imprima los numeros del 100 al 0, en orden
+decreciente.
+
  * @author juliobitar
  */
 public class prob2 {

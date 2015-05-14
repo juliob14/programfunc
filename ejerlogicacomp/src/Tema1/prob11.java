@@ -8,7 +8,9 @@ package Tema1;
 import java.util.Scanner;
 
 /**
- *
+ *Imprimir y contar los multiplos de 3 desde la unidad hasta un numero que
+introducimos por teclado.
+
  * @author juliobitar
  */
 public class prob11 {

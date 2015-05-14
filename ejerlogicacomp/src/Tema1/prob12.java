@@ -6,7 +6,10 @@
 package Tema1;
 
 /**
- *
+ *Hacer un pseudocodigo que imprima los numeros del 1 al 100. Que calcule la
+suma de todos los numeros pares por un lado, y por otro, la de todos los
+impares.
+
  * @author juliobitar
  */
 public class prob12 {

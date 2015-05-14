@@ -8,7 +8,7 @@ package Tema1;
 import java.util.Scanner;
 
 /**
- *
+ *Introducir un numero por teclado. Que nos diga si es par o impar.
  * @author juliobitar
  */
 public class prob10 {

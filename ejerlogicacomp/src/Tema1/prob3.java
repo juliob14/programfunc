@@ -6,7 +6,7 @@
 package Tema1;
 
 /**
- *
+ *Hacer un pseudocodigo que imprima los numeros pares entre 0 y 100.
  * @author juliobitar
  */
 public class prob3 {

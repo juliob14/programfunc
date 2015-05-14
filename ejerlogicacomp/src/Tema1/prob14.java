@@ -8,7 +8,9 @@ package Tema1;
 import java.util.Scanner;
 
 /**
- *
+ *.-Hacer un pseudocodigo que imprima el mayor y el menor de una serie de
+cinco numeros que vamos introduciendo por teclado.
+
  * @author juliobitar
  */
 public class prob14 {

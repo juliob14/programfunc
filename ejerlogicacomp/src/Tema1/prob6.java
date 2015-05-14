@@ -11,15 +11,14 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 /**
- *
+ *Hacer un pseudocodigo que imprima todos los numeros naturales que hay
+desde la unidad hasta un numero que introducimos por teclado.
+
+
  * @author juliobitar
  */
 public class prob6 {
 
-    /**
-     *
-     * @param args
-     */
     public static void main(String[] args) throws IOException
     {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
