@@ -6,7 +6,9 @@
 package tema3;
 
 /**
- *
+ *Hacer un pseudocodigo que imprima los n£meros del 0 al 100, controlando
+las filas y las columnas.
+
  * @author juliobitar
  */
 public class prob23 {

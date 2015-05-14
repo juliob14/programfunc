@@ -9,7 +9,8 @@ import java.io.IOException;
 import static tema3.prob22.read;
 
 /**
- *
+ *Realizar la tabla de multiplicar de un numero entre 0 y 10.
+
  * @author juliobitar
  */
 public class prob27 {

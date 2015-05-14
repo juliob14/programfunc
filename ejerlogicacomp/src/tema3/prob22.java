@@ -10,7 +10,10 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- *
+ *Introducir una frase por teclado. Imprimirla cinco veces en filas
+consecutivas, pero cada impresion ir  desplazada cuatro columnas hacia la
+derecha.
+
  * @author juliobitar
  */
 public class prob22 {

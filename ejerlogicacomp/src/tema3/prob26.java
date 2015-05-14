@@ -8,7 +8,8 @@ package tema3;
 import java.util.Scanner;
 
 /**
- *
+ *Introducir una frase por teclado. Imprimirla en el centro de la pantalla.
+
  * @author juliobitar
  */
 public class prob26 {

@@ -9,7 +9,7 @@ import java.io.IOException;
 import static tema3.prob22.read;
 
 /**
- *
+ *Comprobar si un numero mayor o igual que la unidad es primo.
  * @author juliobitar
  */
 public class prob24 {

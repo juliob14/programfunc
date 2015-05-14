@@ -9,7 +9,7 @@ import java.io.IOException;
 import static tema3.prob22.read;
 
 /**
- *
+ *Introducir un numero menor de 5000 y pasarlo a numero romano.
  * @author juliobitar
  */
 public class prob25 {
