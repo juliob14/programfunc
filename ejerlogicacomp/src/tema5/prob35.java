@@ -9,7 +9,9 @@ import java.io.IOException;
 import static tema5.prob34.read;
 
 /**
- *
+ *Usando el segundo ejemplo, hacer un programa que busque una nota en el
+vector.
+
  * @author juliobitar
  */
 public class prob35 {
