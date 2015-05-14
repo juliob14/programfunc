@@ -9,7 +9,9 @@ import java.io.IOException;
 import static tema2.prob17.read;
 
 /**
- *
+ *Hacer un programa que calcule independientemente la suma de los pares y
+los impares de los numeros entre 1 y 1000, utilizando un switch.
+
  * @author juliobitar
  */
 public class prob21 {

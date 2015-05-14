@@ -9,7 +9,9 @@ import java.io.IOException;
 import static tema2.prob17.read;
 
 /**
- *
+ *Hacer un pseudocodigo que cuente las veces que aparece una determinada
+letra en una frase que introduciremos por teclado.
+
  * @author juliobitar
  */
 public class prob18 {

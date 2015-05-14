@@ -6,7 +6,8 @@
 package tema2;
 
 /**
- *
+ *Imprimir diez veces la serie de numeros del 1 al 10.
+
  * @author juliobitar
  */
 public class prob16 {

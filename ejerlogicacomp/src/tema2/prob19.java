@@ -9,7 +9,9 @@ import java.io.IOException;
 import static tema2.prob17.read;
 
 /**
- *
+ *Hacer un pseudocodigo que simule el funcionamiento de un reloj digital y
+que permita ponerlo en hora.
+
  * @author juliobitar
  */
 public class prob19 {

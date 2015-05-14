@@ -10,7 +10,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- *
+ *Imprimir, contar y sumar los multiplos de 2 que hay entre una serie de
+numeros, tal que el segundo sea mayor o igual que el primero.
+
  * @author juliobitar
  */
 public class prob17 {

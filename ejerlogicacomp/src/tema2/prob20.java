@@ -9,7 +9,7 @@ import java.io.IOException;
 import static tema2.prob17.read;
 
 /**
- *
+ *Calcular el factorial de un numero, mediante subprogramas.
  * @author juliobitar
  */
 public class prob20 {
