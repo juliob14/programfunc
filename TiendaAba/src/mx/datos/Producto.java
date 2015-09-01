@@ -5,13 +5,16 @@
  */
 package mx.datos;
 
+import java.util.Arrays;
+import java.util.List;
+
 /**
  *
  * @author juliobitar
  */
 public class Producto {
     public static final String TABLA ="productos";
-   // public static final String[] FIELDS = {"id"};
+    public static final String[] FIELDS = {"id"};
    
     private Integer clave;
     private String descripcion;
@@ -21,4 +24,14 @@ public class Producto {
     private Integer min;
     private Integer max;
     
+    
+    
+    public String fieldsToString(){
+    String fieldStr = "";
+    List<String> fieldsToConvert = Arrays.asList(FIELDS);
+    for (String field: fieldsToConvert){
+        fieldStr = String.format("%s","%s",fieldStr,field);
+    }
+    return fieldStr;
+    }
 }
